@@ -16,6 +16,9 @@ App and handlerdemo where App is empty that can be ignore;
 
 ## Flow
 ![image](https://github.com/joyruby/HandlerLearing/blob/master/readmeLoge/handlerMap.png)
+
+---
+
 MultiThreadDemo is the entry;
 
 Two comparision to show the key of the Handler;
