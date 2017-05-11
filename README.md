@@ -6,6 +6,7 @@ App and handlerdemo where App is empty that can be ignore;
 
 ---
 ## Introduction
+**If you wonder why looper does not interrupt the app, this demo may enlight you**
 **It is just a demo to show how the handler can update ui when get a message from another thread;**
 
 ---
