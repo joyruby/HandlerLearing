@@ -11,9 +11,11 @@ App and handlerdemo where App is empty that can be ingore;
 ---
 
 ## Directories
-![image](http://note.youdao.com/favicon.ico)
+![image](https://github.com/joyruby/HandlerLearing/blob/master/readmeLoge/directory.png)
+
 
 ## Flow
+![image](https://github.com/joyruby/HandlerLearing/blob/master/readmeLoge/handlerMap.png)
 MultiThreadDemo is the entry;
 
 There are two comparision to show the key of the Handler;
