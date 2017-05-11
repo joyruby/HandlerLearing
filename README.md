@@ -18,9 +18,9 @@ App and handlerdemo where App is empty that can be ingore;
 ![image](https://github.com/joyruby/HandlerLearing/blob/master/readmeLoge/handlerMap.png)
 MultiThreadDemo is the entry;
 
-There are two comparision to show the key of the Handler;
+Two comparision to show the key of the Handler;
 
-One comparision:
+###One comparision:
 
 In another thread, handler's multiThreadTest is invoked. The result is obvious;
 
@@ -38,9 +38,9 @@ public static void compareInAnotherThread(final Handler handler){
 ```
 
 
-The other comparision:
+###The other comparision:
 
-A while without interuption is used to get the message from messagequeue; It is what we called looper;
+A while without interruption is used to get the message from messagequeue; It is what we called looper;
 
 ```
 public static void compareWithLooperThread(final Handler handler){
